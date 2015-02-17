@@ -20,7 +20,7 @@ Your challenges, should you choose to accept them:
 ```
 When a non-logged-in user visits /clubs
 Or visits /students
-Then they should be redirected to the login page
+Then they should be redirected to the login page DONE
 ```
 
 **Blocking access**
